@@ -1,7 +1,7 @@
 const { Command } = require('commander');
 const program = new Command();
 
-//console.log(process.argv);
+console.log(process.argv);
 
 program
   .name('string-util')
