@@ -1,11 +1,11 @@
-node.js-git
+#node.js-git
 
-$ npm init
-$ npm i commander
+$ npm init  
+$ npm i commander  
 $ npm i nodemon -D
 
-.giticnore
-index.js
+.giticnore  
+index.js  
 README.md
 
 $ git branch -M main
