@@ -4,7 +4,7 @@ $ npm init
 $ npm i commander  
 $ npm i nodemon -D
 
-.giticnore  
+.gitignore  
 index.js  
 README.md
 
