@@ -13,7 +13,7 @@ $ git branch -M main
 $ git remote add origin https://github.com/IgorMushk/node.js-git.git  
 $ git push -u origin main
 
-# -----------------------------------------------------------
+# 
 Если репозиторий уже связан с удаленным репозиторием на GitHub, и нужно, чтобы он отобразился в GitHub Desktop:
 
 1. Откройте **GitHub Desktop**:
